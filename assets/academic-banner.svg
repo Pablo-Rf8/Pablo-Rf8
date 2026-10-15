@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">Pablo Requena — Aprender construyendo</title>
+<desc id="desc">Banner azul y cian con una ventana de código y módulos de interfaz, API y datos. Informática en Kinal, Guatemala.</desc>
+<defs>
+<linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1424"/><stop offset=".6" stop-color="#0D1C33"/><stop offset="1" stop-color="#081D25"/></linearGradient>
+<radialGradient id="blue"><stop stop-color="#3B82F6" stop-opacity=".25"/><stop offset="1" stop-color="#3B82F6" stop-opacity="0"/></radialGradient>
+<radialGradient id="mint"><stop stop-color="#2DD4BF" stop-opacity=".2"/><stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/></radialGradient>
+<linearGradient id="edge"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#38BDF8" stop-opacity=".13"/><stop offset="1" stop-color="#5EEAD4" stop-opacity=".03"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#7DD3FC" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1200" height="390" rx="24" fill="url(#base)"/>
+<rect width="1200" height="390" rx="24" fill="url(#grid)"/>
+<ellipse cx="980" cy="180" rx="300" ry="240" fill="url(#blue)"/>
+<ellipse cx="190" cy="390" rx="340" ry="210" fill="url(#mint)"/>
+<rect x="20.5" y="20.5" width="1159" height="349" rx="17" fill="none" stroke="#38BDF8" stroke-opacity=".22"/>
+<path d="M21 65H1179" stroke="#38BDF8" stroke-opacity=".15"/>
+<g fill="#38BDF8"><circle cx="47" cy="43" r="4"/><circle cx="64" cy="43" r="4" opacity=".55"/><circle cx="81" cy="43" r="4" opacity=".25"/></g>
+<g font-family="Consolas,monospace" font-size="11" letter-spacing="1.5">
+<text x="106" y="47" fill="#93AFC8">PABLO-RF8 / LEARNING SPACE</text>
+<circle cx="1030" cy="42" r="3" fill="#5EEAD4"/><text x="1043" y="47" fill="#B9D9E4">GUATEMALA</text>
+</g>
+<rect x="64" y="102" width="195" height="27" rx="13.5" fill="#38BDF8" fill-opacity=".08" stroke="#38BDF8" stroke-opacity=".25"/>
+<text x="80" y="120" fill="#7DD3FC" font-family="Consolas,monospace" font-size="11" letter-spacing="1.5">INFORMÁTICA / KINAL</text>
+<text x="60" y="209" fill="#EFF8FF" font-family="Segoe UI,Arial,sans-serif" font-size="69" font-weight="700" letter-spacing="-2.5">Pablo Requena<tspan fill="#5EEAD4">.</tspan></text>
+<text x="65" y="253" fill="#A5BDD4" font-family="Segoe UI,Arial,sans-serif" font-size="22">Software, hardware y trabajo en equipo.</text>
+<path d="M65 295H626" stroke="url(#edge)" stroke-opacity=".3"/>
+<g font-family="Consolas,monospace" font-size="12">
+<text x="65" y="332" fill="#38BDF8">01</text><text x="91" y="332" fill="#A1B1C7">APRENDER</text>
+<text x="255" y="332" fill="#5EEAD4">02</text><text x="281" y="332" fill="#A1B1C7">CONSTRUIR</text>
+<text x="457" y="332" fill="#38BDF8">03</text><text x="483" y="332" fill="#A1B1C7">COMPARTIR</text>
+</g>
+<rect x="743" y="97" width="374" height="199" rx="14" fill="#09121F" stroke="#38BDF8" stroke-opacity=".32"/>
+<rect x="743" y="97" width="374" height="199" rx="14" fill="url(#glass)"/>
+<path d="M744 133H1116" stroke="#38BDF8" stroke-opacity=".16"/>
+<text x="765" y="120" fill="#7DD3FC" font-family="Consolas,monospace" font-size="12">developer.ts</text>
+<text x="1088" y="120" fill="#5EEAD4" font-family="Consolas,monospace" font-size="12">TS</text>
+<g font-family="Consolas,monospace" font-size="17">
+<text x="768" y="166" fill="#7DD3FC">const <tspan fill="#E2E8F0">pablo = {</tspan></text>
+<text x="790" y="197" fill="#9EBAD1">  learning: <tspan fill="#5EEAD4">true</tspan><tspan fill="#CBD5E1">,</tspan></text>
+<text x="790" y="228" fill="#9EBAD1">  building: <tspan fill="#FDE68A">"next"</tspan></text>
+<text x="768" y="259" fill="#E2E8F0">};<tspan fill="#38BDF8">_</tspan></text>
+</g>
+<path d="M802 314H1061" stroke="#38BDF8" stroke-opacity=".35"/>
+<g font-family="Consolas,monospace" font-size="12" text-anchor="middle">
+<rect x="753" y="304" width="100" height="33" rx="10" fill="#11283C" stroke="#38BDF8" stroke-opacity=".4"/><text x="803" y="325" fill="#7DD3FC">INTERFAZ</text>
+<rect x="883" y="304" width="100" height="33" rx="10" fill="#112A37" stroke="#5EEAD4" stroke-opacity=".4"/><text x="933" y="325" fill="#5EEAD4">API REST</text>
+<rect x="1013" y="304" width="100" height="33" rx="10" fill="#11283C" stroke="#38BDF8" stroke-opacity=".4"/><text x="1063" y="325" fill="#7DD3FC">DATOS</text>
+</g>
+<g fill="#7DD3FC" opacity=".7"><circle cx="714" cy="135" r="2"/><circle cx="1136" cy="271" r="2"/><path d="M1130 160v12m-6-6h12" fill="none" stroke="#5EEAD4"/></g>
+</svg>
