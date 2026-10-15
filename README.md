@@ -3,17 +3,17 @@
 
 <div align="center">
 
-<img src="./assets/academic-banner.svg" width="100%" alt="Pablo Requena — Informática en Kinal. Desarrollo de software, hardware y redes." />
+<img src="./assets/academic-banner.svg" width="100%" alt="David Requena Mollinedo — Informática en Kinal. Desarrollo de software, hardware y redes." />
 
-# Hola, soy Pablo Requena 👋
+# David Requena Mollinedo
 
-**Pablo David Requena Mollinedo · `Pablo-Rf8`**
+**`Pablo-Rf8` · Perfil académico**
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&amp;weight=500&amp;size=22&amp;duration=3200&amp;pause=1500&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=55&amp;lines=Informatica%20en%20Kinal%3BDesarrollo%20Full%20Stack%20y%20APIs%20REST%3BHardware%2C%20redes%20y%20trabajo%20en%20equipo" width="720" alt="Informática en Kinal. Desarrollo Full Stack y APIs REST. Hardware, redes y trabajo en equipo." />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira%20Code&amp;weight=500&amp;size=22&amp;duration=3000&amp;pause=2200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=720&amp;height=55&amp;repeat=true&amp;lines=Inform%C3%A1tica%20en%20Kinal%3BDesarrollo%20Full%20Stack%20y%20APIs%20REST%3BHardware%2C%20redes%20y%20trabajo%20en%20equipo" width="720" alt="Informática en Kinal. Desarrollo Full Stack y APIs REST. Hardware, redes y trabajo en equipo." />
 
 <p>
-  <img src="https://img.shields.io/badge/Kinal-Inform%C3%A1tica-38BDF8?style=flat-square&amp;labelColor=161B22" alt="Estudiante de Informática en Kinal" />
-  <img src="https://img.shields.io/badge/Guatemala-GT-5EEAD4?style=flat-square&amp;labelColor=161B22" alt="Guatemala" />
+  <img src="https://img.shields.io/badge/Kinal-Inform%C3%A1tica-38BDF8?style=flat-square&amp;labelColor=161B22" alt="Formación en Informática en Kinal" />
+  <img src="https://img.shields.io/badge/Origen-California-5EEAD4?style=flat-square&amp;labelColor=161B22" alt="Origen: California" />
   <img src="https://img.shields.io/badge/En_formaci%C3%B3n-Full_Stack-60A5FA?style=flat-square&amp;labelColor=161B22" alt="Desarrollo Full Stack en formación" />
 </p>
 
@@ -32,7 +32,9 @@
 
 ## 🎓 Aprender construyendo
 
-Tengo **19 años** y estudio Informática en el **Centro Educativo Técnico Laboral Kinal, Guatemala**. Este es el espacio donde comparto mis prácticas, actividades y proyectos académicos mientras me preparo para mis **prácticas profesionales de TI**.
+Estudié Informática en **Kinal** y soy de **California**.
+
+Este es el espacio donde comparto mis prácticas, actividades y proyectos académicos mientras me preparo para mis **prácticas profesionales de TI**.
 
 - **Desarrollo Full Stack:** bases de datos, APIs REST y diseño de interfaces.
 - **Trabajo en equipo:** experiencia como **Scrum Master** en proyectos estudiantiles, gestionando repositorios y tableros de Trello.
@@ -40,7 +42,7 @@ Tengo **19 años** y estudio Informática en el **Centro Educativo Técnico Labo
 
 > Me interesa entender el problema, construir una solución y aprender de cada iteración.
 
-### Dos cuentas, el mismo Pablo
+### Dos perfiles, una identidad
 
 📘 **Aquí, en Pablo-Rf8:** mi formación y proyectos académicos.<br />
 👻 **En [0ghost8](https://github.com/0ghost8):** mis proyectos personales, experimentos e identidad visual.
